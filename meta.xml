@@ -1,7 +1,7 @@
 <meta>
 	<info type="script" />
 
-	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
 
 	<file src="test.png" />
 
