@@ -1,0 +1,9 @@
+<meta>
+	<info type="script" />
+
+	<script src="client.lua" type="client" cache="false" />
+
+	<file src="test.png" />
+
+	<oop>true</oop>
+</meta>
